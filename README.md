@@ -6,8 +6,6 @@
   </a>
 </p>
 
-> This project made for those who wanted to learn about the firebase and thier Auth, Cloud Storage and Cloud function modules with Flutter. This repo will help to understand how to use firebase with flutter using a fully functional Todo App
-
 ### 🏠 [Homepage](https://www.youtube.com/playlist?list=PLtIU0BH0pkKrQZUFWENF_VXINhfv9WiIA)
 
 ### ✨ [Demo](https://www.youtube.com/playlist?list=PLtIU0BH0pkKrQZUFWENF_VXINhfv9WiIA)
